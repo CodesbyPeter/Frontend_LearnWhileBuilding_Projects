@@ -14,3 +14,5 @@ To run the project:
     1. Clone the project from my github repository(https://github.com/CodesbyPeter/Frontend_LearnWhileBuilding_Projects/tree/main/single_page_cv)).
     2. Initialize the repository in your local machine.
     3. By use of vscode live server's extension, open the project in your browser.
+    
+Note: Roadmap.sh project page url(https://roadmap.sh/projects/single-page-cv).
