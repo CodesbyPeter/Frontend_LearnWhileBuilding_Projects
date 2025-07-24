@@ -11,6 +11,6 @@ The projects main aim was to check one's mastery of basic HTML. Thus as a result
    5. Use of hr tag to create a better aesthetic view.
 ## HOW TO RUN THE PROJECT
 To run the project:
-    1. Clone the project from my github repository([github repository](https://github.com/CodesbyPeter/Frontend_LearnWhileBuilding_Projects/tree/main/single_page_cv)).
+    1. Clone the project from my github repository(https://github.com/CodesbyPeter/Frontend_LearnWhileBuilding_Projects/tree/main/single_page_cv)).
     2. Initialize the repository in your local machine.
     3. By use of vscode live server's extension, open the project in your browser.
