@@ -26,3 +26,12 @@ p, li, dd, dt, address {
 ul li {
     list-style: none;
 }
+
+a {
+  color: #000;
+  border-bottom: dotted;
+}
+
+#PhD {
+  border-bottom: dotted;
+}
