@@ -23,13 +23,8 @@ p, li, dd, dt, address {
   line-height: 1.5;
 }
 
-ul li {
+.address{
     list-style: none;
-}
-
-a {
-  color: #000;
-  border-bottom: dotted;
 }
 
 #PhD {
